@@ -70,6 +70,12 @@ params:
     - name: Email
       url: mailto:franziska.deckstein@uni-leipzig.de
 
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+        favicon: "/favicon.ico"
+        favicon32x32: "/favicon-32x32.png"
+
   cover:
     hiddenInList: false
     hiddenInSingle: true
