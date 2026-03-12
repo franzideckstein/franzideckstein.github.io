@@ -46,6 +46,10 @@ params:
   social:
     facebook_admin: ""
 
+  assets:
+    favicon: "/favicon.ico"
+    favicon32x32: "/favicon-32x32.png"
+
   profileMode:
     enabled: true
     title: Franziska Deckstein
@@ -69,15 +73,6 @@ params:
       url: https://github.com/franzideckstein
     - name: Email
       url: mailto:franziska.deckstein@uni-leipzig.de
-
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-        favicon: "/favicon.ico"
-        favicon16x16: ""
-        favicon32x32: "/favicon-32x32.png"
-        apple_touch_icon: ""
-        mask_icon: ""
 
   cover:
     hiddenInList: false
