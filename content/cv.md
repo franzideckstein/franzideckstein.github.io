@@ -1,7 +1,10 @@
----
+\---
+
 title: "CV"
 draft: false
----
 
-You can download my CV here: [PDF](/Deckstein_CV_1225.pdf)
-Last Update: Dec 2025
+\---
+
+You can download my CV here: [PDF](https://franzideckstein.github.io/Deckstein_CV_0426.pdf) (Last Update: Apr 2026)
+
+
