@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: Franziska Deckstein
-    subtitle: "I'm a Research Assistant and PhD Student at the Chair of Public Economics at Leipzig University. My interests lie in the fields of Public Economics, Labor Economics, and Inequality."
+    subtitle: "I'm a Research Assistant and PhD Student at the <a href='https://www.wifa.uni-leipzig.de/institut-fuer-oeffentliche-finanzen-und-public-management/professur-finanzwissenschaft' style='text-decoration: underline;'>Chair of Public Economics</a> at Leipzig University. My interests lie in the fields of Public Economics, Labor Economics, and Inequality."
     imageUrl: "portrait2.jpg"
     imageWidth: 200
     imageHeight: 200
